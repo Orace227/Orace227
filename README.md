@@ -20,20 +20,20 @@
 - 🤝 I’m looking to collaborate with **Open Source Enthusiasts** and **Developers**
 - 🚀 **Projects** are available at 
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Orace227)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)]([https://your-website-link.com](https://bhavin.team.glitchastra.com/))
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://bhavin.team.glitchastra.com)
 
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"> Connect with me:</h2>
 <div id="badges">
   <a href="https://github.com/Orace227">
     <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/bhavin-prajapati-b8476b275/)">
+  <a href="https://www.linkedin.com/in/bhavin-prajapati-b8476b275/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
 
 ## 💻 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb,html,css,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,javascript,git,github,nextjs,kafka,redis,typescript,html,css&perline=7)](https://skillicons.dev)
 
 ## 👤 Soft Skills:
 <div id="badges">
