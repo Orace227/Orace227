@@ -33,7 +33,7 @@
 </div>
 
 ## 💻 Technical Skills:
-[![My Skills]([https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb,html,css,git&perline=8](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,javascript,git,github,nextjs,kafka,redis,typescript,html,css&perline=7))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb,html,css,git&perline=8)](https://skillicons.dev)
 
 ## 👤 Soft Skills:
 <div id="badges">
