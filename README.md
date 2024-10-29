@@ -8,8 +8,6 @@
 <h3 align="center">A Passionate Developer and Software Engineer Enthusiast</h3>
 <br />
 
-![Profile Banner](https://github.com/Orace227/Orace227/blob/main/Profile%20Banner.png)
-
 #### _Welcome To My GitHub Profile._ 
 
 ## 🧑‍💻 About Me:
@@ -17,25 +15,25 @@
 <img align="right" alt="coder" width="300" height="240" src="https://github.com/Orace227/Orace227/blob/main/coding-gif-1-unscreen.gif" />
 
 - 🎓 Computer Science **Student** passionate about **Software Development**
-- 🌏 Open Source Contributor from **[Your Country]** 🌍
+- 🌏 Open Source Contributor from **INDIA** 🌍
 - ⭐ I’m currently working on my **Personal** and **Professional** growth
 - 🤝 I’m looking to collaborate with **Open Source Enthusiasts** and **Developers**
 - 🚀 **Projects** are available at 
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Orace227)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://your-website-link.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)]([https://your-website-link.com](https://bhavin.team.glitchastra.com/))
 
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"> Connect with me:</h2>
 <div id="badges">
   <a href="https://github.com/Orace227">
     <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/bhavin-prajapati-b8476b275/)">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
 
 ## 💻 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb,html,css,git&perline=8)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb,html,css,git&perline=8](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,javascript,git,github,nextjs,kafka,redis,typescript,html,css&perline=7))](https://skillicons.dev)
 
 ## 👤 Soft Skills:
 <div id="badges">
@@ -46,7 +44,7 @@
 </div>
 
 ## 📅 Databases:
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&perline=8)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&perline=8)](https://skillicons.dev)
@@ -54,6 +52,7 @@
 ## 💻 Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/figma-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br />
 
@@ -61,7 +60,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Orace227&show_icons=true&theme=dark)
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orace227&theme=dark&hide_border=false"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orace227&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orace227&theme=dark&hide_border=false&include_all_commits=&count_private=false&layout=compact">
 </div>
 
 ### <div align="center">Thank You For Visiting My Profile! ❤️</div>
