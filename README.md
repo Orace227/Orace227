@@ -32,6 +32,20 @@
   </a>
 </div>
 
+
+## My VS Code Profile
+
+🎨 **Visual Studio Code Setup**
+
+You can download my custom **VS Code Profile** by clicking the link below:
+
+[![VS Code Profile](https://code.visualstudio.com/assets/images/code-stable.png)](https://gist.github.com/Orace227/188dccee889b933089bb014d688b5f88)
+
+👉 **[Download My VS Code Profile](https://gist.github.com/Orace227/188dccee889b933089bb014d688b5f88)**
+
+Feel free to try it out and make it your own! ✨
+
+
 ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,javascript,git,github,nextjs,kafka,redis,typescript,html,css&perline=7)](https://skillicons.dev)
 
