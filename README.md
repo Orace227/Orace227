@@ -39,7 +39,9 @@
 
 You can download my custom **VS Code Profile** by clicking the link below:
 
-[![VS Code Profile](https://code.visualstudio.com/assets/images/code-stable.png)](https://gist.github.com/Orace227/188dccee889b933089bb014d688b5f88)
+<a href="https://gist.github.com/Orace227/188dccee889b933089bb014d688b5f88">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Profile" width="150" />
+</a>
 
 👉 **[Download My VS Code Profile](https://gist.github.com/Orace227/188dccee889b933089bb014d688b5f88)**
 
