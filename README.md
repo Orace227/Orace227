@@ -47,32 +47,28 @@ You can download my custom **VS Code Profile** by clicking the link below:
 
 Feel free to try it out and make it your own! ✨
 
+
+
 # 🎨 My Custom Terminal Profile for Windows
 
 A beautiful, functional PowerShell terminal setup with enhanced productivity features and custom styling.
 
 ## 🚀 Quick Setup
 
-### Step 1: Install Windows Terminal
-```bash
-# Install via Microsoft Store or use winget
-winget install Microsoft.WindowsTerminal
-```
-
-### Step 2: Install Required Modules
+### Step 1: Install Required Modules
 Open PowerShell as Administrator and run:
 ```powershell
 # Install Posh-Git for Git integration
 Install-Module posh-git -Scope CurrentUser -Force
 ```
 
-### Step 3: Download the Profile
+### Step 2: Download the Profile
 1. Download the PowerShell profile from this gist: 
    👉 **[Download Profile](https://gist.github.com/Orace227/e6973c8e055c5448360935b248dcdf9b)**
 
 2. Save it as `Microsoft.PowerShell_profile.ps1`
 
-### Step 4: Set Up the Profile
+### Step 3: Set Up the Profile
 ```powershell
 # Create PowerShell profile directory if it doesn't exist
 if (!(Test-Path -Path $PROFILE)) {
@@ -84,7 +80,7 @@ if (!(Test-Path -Path $PROFILE)) {
 Copy-Item "path\to\downloaded\Microsoft.PowerShell_profile.ps1" $PROFILE -Force
 ```
 
-### Step 5: Restart Terminal
+### Step 4: Restart Terminal
 Close and reopen Windows Terminal to see the changes.
 
 ## 🔧 Configuration Details
@@ -114,6 +110,8 @@ function ll { Get-ChildItem -Force }
 function la { Get-ChildItem -Force -Hidden }
 function .. { Set-Location .. }
 ```
+
+
 
 ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,javascript,git,github,nextjs,kafka,redis,typescript,html,css&perline=7)](https://skillicons.dev)
