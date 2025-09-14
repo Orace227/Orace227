@@ -47,15 +47,73 @@ You can download my custom **VS Code Profile** by clicking the link below:
 
 Feel free to try it out and make it your own! ✨
 
-## My Terminal Profile
+# 🎨 My Custom Terminal Profile for Windows
 
-🎨 **Terminal Setup for Windows**
+A beautiful, functional PowerShell terminal setup with enhanced productivity features and custom styling.
 
-You can download my custom **Terminal Profile** by clicking the link below:
+## 🚀 Quick Setup
 
-👉 **[Download My VS Code Profile](https://gist.github.com/Orace227/188dccee889b933089bb014d688b5f88)**
+### Step 1: Install Windows Terminal
+```bash
+# Install via Microsoft Store or use winget
+winget install Microsoft.WindowsTerminal
+```
 
-Feel free to try it out and make it your own! ✨
+### Step 2: Install Required Modules
+Open PowerShell as Administrator and run:
+```powershell
+# Install Posh-Git for Git integration
+Install-Module posh-git -Scope CurrentUser -Force
+```
+
+### Step 3: Download the Profile
+1. Download the PowerShell profile from this gist: 
+   👉 **[Download Profile](https://gist.github.com/Orace227/e6973c8e055c5448360935b248dcdf9b)**
+
+2. Save it as `Microsoft.PowerShell_profile.ps1`
+
+### Step 4: Set Up the Profile
+```powershell
+# Create PowerShell profile directory if it doesn't exist
+if (!(Test-Path -Path $PROFILE)) {
+    New-Item -ItemType File -Path $PROFILE -Force
+}
+
+# Copy the downloaded profile content to your PowerShell profile
+# Replace the path below with where you downloaded the file
+Copy-Item "path\to\downloaded\Microsoft.PowerShell_profile.ps1" $PROFILE -Force
+```
+
+### Step 5: Restart Terminal
+Close and reopen Windows Terminal to see the changes.
+
+## 🔧 Configuration Details
+
+### Custom Functions Included
+
+#### `dev` Function
+Quickly start your development server:
+```powershell
+dev  # Runs 'npm run dev'
+```
+
+### Git Integration
+- Enhanced Git status in prompt
+- Git branch information
+- Color-coded Git status indicators
+```
+
+### Adding Custom Aliases
+Edit your profile to add more aliases:
+```powershell
+# Open profile for editing
+notepad $PROFILE
+
+# Add custom aliases like:
+function ll { Get-ChildItem -Force }
+function la { Get-ChildItem -Force -Hidden }
+function .. { Set-Location .. }
+```
 
 ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,javascript,git,github,nextjs,kafka,redis,typescript,html,css&perline=7)](https://skillicons.dev)
